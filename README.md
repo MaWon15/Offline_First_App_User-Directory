@@ -3,6 +3,6 @@ This User Directary App fetches user data from open API JSONPlaceholder - https:
 
 #ScreenShots 
 
-![Home Screen](./ScreenShots/HomeScreen.jpeg)
-![Search Tool](./ScreenShots/Search.jpeg)
+![Home Screen](./UserDirectory/ScreenShots/HomeScreen.jpeg)
+![Search Tool](./UserDirectory/ScreenShots/Search.jpeg)
 
